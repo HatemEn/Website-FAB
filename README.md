@@ -1,2 +1,2 @@
 # Floating Action Button
-## pure HTML, CSS
+## Pure HTML, CSS
